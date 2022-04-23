@@ -29,4 +29,4 @@ CNN based model which can accurately detect melanoma. Melanoma is a type of canc
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lipikapanda/CNN_SkinCancer_ImageClassification)
 
-<center><img src="assets/img/SkinCancerClassificationCNN.jpg" height="350"/></center>
+<center><img src="assets/img/SkinCancerClassificationCNN.png" height="350"/></center>
