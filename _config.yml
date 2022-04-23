@@ -1,6 +1,6 @@
 title: Lipika Panda
 logo: /assets/img/logo.png
-description:My Github Profile
-show_downloads: false
+description: My GitHub Profile
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
