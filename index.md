@@ -10,4 +10,4 @@ The model has also been deployed using Flask and Heroku for making real time pre
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lipikapanda/HousePrice_AdvanceRegression)
 
-<center><img src="assets/img/fraud-detection.jpg" width="300" height="300"/></center>
+<center><img src="assets/img/HousePrice.jpg" height="350"/></center>
