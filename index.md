@@ -10,15 +10,33 @@ The model has also been deployed using Flask and Heroku for making real time pre
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lipikapanda/HousePrice_AdvanceRegression)
 
+* Data Understanding
+* Exploratory Data Analysis
+* Data Preparation
+* Lasso Model
+* Ridge Model
+* Inferences
+* Double Alpha and rebuild Lasso and Ridge
+* Remove top 5 features from Lasso and rebuild model
+* Deploy Model and make real time predictions
+
 <center><img src="assets/img/HousePrice.jpg" height="350"/></center>
 
 ## Telecom Churn Case Study
 
-Model the price of houses with the available independent variables. This model will then be used to understand how exactly the prices vary with the variables. They can accordingly manipulate the strategy of the firm and concentrate on areas that will yield high returns. Further, the model will be a good way for management to understand the pricing dynamics of a new market.
+In the telecom industry, customers are able to choose from multiple service providers and actively switch from one operator to another. In this highly competitive market, the telecommunications industry experiences an average of 15-25% annual churn rate. Given the fact that it costs 5-10 times more to acquire a new customer than to retain an existing one, customer retention has now become even more important than customer acquisition. In this project, we will analyze customer-level data of a leading telecom firm, build predictive models to identify customers at high risk of churn.
 
-The model has also been deployed using Flask and Heroku for making real time predictions.
+* Data Understanding
+* Exploratory Data Analysis
+* Data Preparation
+* Principal Component Analysis(PCA)
+* Logistic Regression Model with PCA
+* Random Forest Model with PCA
+* XG Boost Model with PCA
+* Random Forest Model without PCA for Feature Importance
+* Inference
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lipikapanda/TelecomChurnCaseStudy)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lipikapanda/Telecom-Churn-CaseStudy)
 
 <center><img src="assets/img/TelecomChurn.jpg" height="350"/></center>
 
@@ -26,6 +44,12 @@ The model has also been deployed using Flask and Heroku for making real time pre
 ## Skin Cancer Image Classification
 
 CNN based model which can accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A solution which can evaluate images and alert the dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis. Dataset of about 2357 images of skin cancer types. The dataset contains 9 sub-directories in each train and test subdirectories. The 9 sub-directories contains the images of 9 skin cancer types respectively.
+
+* Data Splitting to Test and Validation
+* Data Visualisation(One from each class)
+* Model 1 - Build and Analysis
+* Model 2 - Build with Data Augmentation and Analysis
+* Model 3 - Build with Augmentor and Rectified Class Imbalance
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lipikapanda/CNN_SkinCancer_ImageClassification)
 
