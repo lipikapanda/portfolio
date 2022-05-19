@@ -71,4 +71,4 @@ The training data consists of a few hundred videos categorized into one of the f
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lipikapanda/Gesture-Recognition)
 
-<center><img src="assets/img/SkinCancerClassificationCNN.png" height="350"/></center>
+<center><img src="assets/img/GR.png" height="350"/></center>
