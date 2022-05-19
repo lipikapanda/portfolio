@@ -54,3 +54,21 @@ CNN based model which can accurately detect the type of skin cancer out of 9 cat
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lipikapanda/CNN_SkinCancer_ImageClassification)
 
 <center><img src="assets/img/SkinCancerClassificationCNN.png" height="350"/></center>
+
+
+## Gesture Recognition
+
+As a data scientist at a home electronics company which manufactures state of the art smart televisions. We want to develop a cool feature in the smart-TV that can recognise five different gestures performed by the user which will help users control the TV without using a remote.The gestures are continuously monitored by the webcam mounted on the TV. 
+
+Each gesture corresponds to a specific command:
+* Thumbs up : Increase the volume.
+* Thumbs down : Decrease the volume.
+* Left swipe : 'Jump' backwards 10 seconds.
+* Right swipe : 'Jump' forward 10 seconds.
+* Stop : Pause the movie.
+
+The training data consists of a few hundred videos categorized into one of the five classes. Each video (typically 2-3 seconds long) is divided into a sequence of 30 frames(images). These videos have been recorded by various people performing one of the five gestures in front of a webcam - similar to what the smart TV will use.Design the network in such a way that the model is able to give good accuracy on the least number of parameters so that it can fit in the memory of the webcam.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lipikapanda/Gesture-Recognition)
+
+<center><img src="assets/img/SkinCancerClassificationCNN.png" height="350"/></center>
